@@ -1,0 +1,39 @@
+====================================================
+              INCIDENT SUMMARY REPORT
+====================================================
+
+User: En. Fakhri
+Reported Issue: Encrypted and unreadable work document
+
+----------------------------------------------------
+                DESCRIPTION OF EVENT
+----------------------------------------------------
+En. Fakhri contacted the IT Security team with an urgent issue.
+He was preparing to send an important document named:
+
+    BigClient_Proposal_2025.docx
+
+However, he discovered that the file had been encrypted and was no longer readable.
+
+----------------------------------------------------
+                 USER ACTIVITIES
+----------------------------------------------------
+Before the incident occurred, Fakhri reported that he:
+
+1. Downloaded a compressed archive (.rar file) earlier that day.
+2. The archive contained a resume template.
+3. He extracted the contents.
+4. He then deleted the .rar file after extraction.
+
+----------------------------------------------------
+             FORENSIC ACTION TAKEN
+----------------------------------------------------
+The IT Security team created a forensic image of Fakhri’s workstation
+for detailed investigation and recovery of encrypted files.
+
+Disk Image:
+https://drive.google.com/file/d/10lWQikC5PVNoKDDi_aav1WqK0BGYNqRJ/view?usp=sharing
+
+----------------------------------------------------
+                    END OF FILE
+====================================================
